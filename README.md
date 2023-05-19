@@ -23,7 +23,9 @@
 
  ## Conhecimentos
 <div style="display: inline_block">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,php,py,java,bootstrap,kubernetes,aws,gcp,azure,androidstudio,vscode,qt&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ps,c,cs,cpp,php,py,java,bootstrap,figma,firebase,flutter,kubernetes,docker,aws,gcp,azure,mysql,mongodb,graphql,arduino,powershell,eclipse,androidstudio,vim,codepen,github,replit,vscode,atom,qt,autocad&perline=15" />
+
 </div>    
 
 <p>
