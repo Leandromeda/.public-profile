@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/leandromeda">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromeda&layout=compact&langs_count=16&theme=midnight-purple"/>
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromeda&layout=compact&langs_count=16&theme=chartreuse-dark"/>
  
 </div>
  
