@@ -1,7 +1,7 @@
 ## Oiee! Eu sou Leandro Gaudio 🌹.
 
-- 🔭 Observador.
-- 🌱 DEV Full-Stack que pende forte para o Front-End, sou um péssimo piadista, se é que você me entende... 🤣
+- 🔭 Observador; trocadilhista.
+- 🌱 DEV Full-Stack que pende forte para o Front-End e um péssimo piadista, se é que você me entende... 🤣
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromeda&theme=midnight-purple&show_icons=true)
 
