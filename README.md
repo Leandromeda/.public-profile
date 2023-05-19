@@ -3,7 +3,7 @@
 - 🔭 Observador e trocadilhista ruim.
 - 🌱 DEV Full-Stack que pende forte para o Front-End e um péssimo piadista, se é que você me entende... 🤣
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromeda&theme=vision-friendly-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromeda&theme=midnight-purple&show_icons=true)
 
  <div>
   <a href="https://github.com/leandromeda">
