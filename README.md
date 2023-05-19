@@ -1,4 +1,4 @@
-## Oiee! Eu sou Leandro Gaudio 🌹.
+## Oiee! Eu sou Leandro Gaudio 🌹
 
 - 🔭 Observador; trocadilhista.
 - 🌱 DEV Full-Stack que pende forte para o Front-End e um péssimo piadista, se é que você me entende... 🤣
